@@ -9,7 +9,7 @@
 </div>
 
 <p></p>
-<p></p>I'm a software engineer from Texas. I love helping people have great experiences online, and just generally making everything feel cozy. In my free time I explore LLM interpretability and hang out with animals.
+<p></p>I'm a software engineer from Texas. I enjoy helping people have great experiences online, and just generally making everything feel cozy. In my free time I write stories and hang out with animals.
 <p></p>
 
 :writing_hand: Check out my latest blog post at [CourtneyWritesCode](https://courtneywritescode.com) 
